@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "802217608312",
+    "project_id": "whatsup-b41fb",
+    "storage_bucket": "whatsup-b41fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802217608312:android:7be70bb35c19fc661bd98d",
+        "android_client_info": {
+          "package_name": "com.example.whatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802217608312-vt85biccvgq3ugn2hs0bfct5brhlc0oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.whatsup",
+            "certificate_hash": "eeb7986fd58053127fb85e5460c0ba42cb6855ea"
+          }
+        },
+        {
+          "client_id": "802217608312-js064rp6jd5oicbp72p8kdfi5u1lakgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHkBs0gtfzr_w5fceqE9UTA13-LtZF9Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802217608312-js064rp6jd5oicbp72p8kdfi5u1lakgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
